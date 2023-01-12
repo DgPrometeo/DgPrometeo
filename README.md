@@ -26,7 +26,7 @@
 <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
-<a href="https://www.autodesk.es/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="./icons/AutoCAD-Dark.svg" alt="AutoCAD logo" length="46px" width="46px" /></a>
+<a href="https://www.autodesk.es/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="AutoCAD logo" length="46px" width="46px" /></a>
 </p>
 
   <summary>Estudiante en 42</summary>
