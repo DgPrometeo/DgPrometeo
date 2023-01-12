@@ -21,15 +21,19 @@
  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
+<a href="https://www.w3schools.com/css/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS logo" length="46px" width="46px" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode logo" /></a>
 <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
 <a href="https://www.autodesk.es/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="AutoCAD logo" length="46px" width="46px" /></a>
+<a href="https://www.blender.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender logo" length="46px" width="46px" /></a>
+<a href="https://discord.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord logo" length="46px" width="46px" /></a>
+<a href="https://wordpress.com/es/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="Wordpress logo" length="46px" width="46px" /></a>
 </p>
 
-  <summary>Estudiante en 42</summary>
+  <summary align="center">Estudiante en 42</summary>
   <br />
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/danielga?1337Badge=off&UM6P=off" alt="danielga's 42 stats" /></a>
 
