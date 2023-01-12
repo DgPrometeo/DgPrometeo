@@ -33,9 +33,9 @@
 <a href="https://wordpress.com/es/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="Wordpress logo" length="46px" width="46px" /></a>
 </p>
 
-  <summary align="center">Estudiante en 42</summary>
+  <summary>Estudiante en 42</summary>
   <br />
-<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/danielga?1337Badge=off&UM6P=off" alt="danielga's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/danielga?1337Badge=off&UM6P=off" alt="danielga's 42 stats" /></a>
 
 <hr>
 <a href="https://www.linkedin.com/in/garciasanchezdaniel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
