@@ -26,12 +26,12 @@
 <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
-<a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="46px" width="46px" /></a>
+<a href="https://www.autodesk.es/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="./icons/AutoCAD-Dark.svg" alt="AutoCAD logo" length="46px" width="46px" /></a>
 </p>
 
   <summary>Estudiante en 42</summary>
   <br />
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/danielga?1337Badge=off&UM6P=off" alt="danielga's 42 stats" /></a>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/danielga?1337Badge=off&UM6P=off" alt="danielga's 42 stats" /></a>
 
 <hr>
 <a href="https://www.linkedin.com/in/garciasanchezdaniel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
