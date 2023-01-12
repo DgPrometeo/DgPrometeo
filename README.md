@@ -1,13 +1,3 @@
-<details>
-  <summary>Mis repositorios públicos</summary>
-
-<a href="https://github.com/DgPrometeo/42Discovery_Web"> <code>42Discovery_Web</code> </a>: Proyectos realizados en el Discovery Web de 42 Málaga donde trabajamos <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code>. 
-<br>
-<a href="https://github.com/DgPrometeo/Libft"> <code>Libft</code> </a>: Mi primera librería en <code>C</code>.
-<br>
-
-</details>
-<hr>
 <p align="center">
   <b>Programador junior</b>
   <br /><br />
@@ -36,6 +26,17 @@
   <summary>Estudiante en 42</summary>
   <br />
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/danielga?1337Badge=off&UM6P=off" alt="danielga's 42 stats" /></a>
+
+<details>
+  <summary>Mis repositorios públicos</summary>
+
+<a href="https://github.com/DgPrometeo/42Discovery_Web"> <code>42Discovery_Web</code> </a>: Proyectos realizados en el Discovery Web de 42 Málaga donde trabajamos <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code>. 
+<br>
+<br>
+<a href="https://github.com/DgPrometeo/Libft"> <code>Libft</code> </a>: Mi primera librería en <code>C</code>.
+<br>
+
+</details>
 
 <hr>
 <a href="https://www.linkedin.com/in/garciasanchezdaniel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
