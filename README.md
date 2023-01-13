@@ -1,5 +1,5 @@
 
-![Poster of Outer Wilds, one of my favourite videogames, and it represents me in many aspects.](https://i.redd.it/4z06g6x6pgn81.jpg)
+![Poster of Outer Wilds, one of my favourite videogames, and it represents me in many aspects.](banner_OuterWilds.jpg)
 
 
 # Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
