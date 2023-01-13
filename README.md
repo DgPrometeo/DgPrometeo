@@ -1,13 +1,13 @@
 <p align="center">
-  <b>Programador junior</b>
+  <b>Junior programmer</b>
   <br /><br />
-  <i> Actualmente centrado en: </i> <br />
-📚 Estudiar  <b> programación informática  </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
-📖 Aprender <b> desarrollo web </b> en academias online. <br />
-🤓 Practicar <code>Git</code> | <code>C</code> | <code>Shell</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> <br />
+  <i> Currently focused on: </i> <br />
+📚 Studying  <b> Software Development </b> at <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
+📖 Learning <b> Web Development </b> in online academies. <br />
+🤓 Practice <code>Git</code> | <code>C</code> | <code>Shell</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> <br />
 </p>
 
-<p align="center"> <b> CON CONOCIMIENTOS EN </b> <br />
+<p align="center"> <b> WHIT SKILLS IN </b> <br />
  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
@@ -23,21 +23,21 @@
 <a href="https://wordpress.com/es/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="Wordpress logo" length="46px" width="46px" /></a>
 </p>
 
-  <summary>Estudiante en 42</summary>
+  <summary>Student at 42</summary>
   <br />
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/danielga?1337Badge=off&UM6P=off" alt="danielga's 42 stats" /></a>
 
 <details>
-  <summary>Mis repositorios públicos</summary>
+  <summary>My public repositories</summary>
 
-<a href="https://github.com/DgPrometeo/42Discovery_Web"> <code>42Discovery_Web</code> </a>: Proyectos realizados en el Discovery Web de 42 Málaga donde trabajamos <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code>. 
+<a href="https://github.com/DgPrometeo/42Discovery_Web"> <code>42Discovery_Web</code> </a>: Projects carried out in the Discovery Web of 42 Málaga where we work <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code>. 
 <br>
 <br>
-<a href="https://github.com/DgPrometeo/Libft"> <code>Libft</code> </a>: Mi primera librería en <code>C</code>.
+<a href="https://github.com/DgPrometeo/Libft"> <code>Libft</code> </a>: My first librery in <code>C</code>.
 <br>
 
 </details>
 
 <hr>
 <a href="https://www.linkedin.com/in/garciasanchezdaniel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
-<a href="https://github.com/DgPrometeo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>✨ Gracias por tu visita!</code> &nbsp 
+<a href="https://github.com/DgPrometeo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>✨ Thanks for your visit!</code> &nbsp 
