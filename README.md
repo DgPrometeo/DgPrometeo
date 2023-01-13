@@ -71,5 +71,5 @@ I have a variety of interests:
 <hr>
 <div align=center>
 <a href="https://www.linkedin.com/in/garciasanchezdaniel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
-<a href="https://github.com/DgPrometeo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>✨ Thanks for your visit!</code> &nbsp ✨
+<a href="https://github.com/DgPrometeo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>✨ Thanks for your visit! ✨</code> &nbsp 
 </div>
