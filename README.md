@@ -1,12 +1,14 @@
+<a href="https://github.com/DgPrometeo/DgPrometeo/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a>
+<a href="https://github.com/DgPrometeo/DgPrometeo/blob/main/README.es.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> 
 
 ![Poster of Outer Wilds, one of my favourite videogames, and it represents me in many aspects.](banner_OuterWilds.jpg)
 
 
 # Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
-### Thanks for visiting! 😄
+### Thanks for your visit! 😄
 
-I'm an avid self-learner and passionate about History 📚. I'm a **Archaeologist** 📜🗿 who is currently training as a Software Developer in [42 Málaga](https://www.42malaga.com/) ✨.
+My name is Daniel. I'm an avid self-learner and passionate about History 📚. I'm a **Archaeologist** 📜🗿 who is currently training as a Software Developer in [42 Málaga](https://www.42malaga.com/) ✨.
 
 I have experience as a teacher, archaeologist, and learning various programming languages and technologies. My current goal is to deepen my knowledge as a software developer 💻 and to be able to introduce myself in the sector, showing my ability to learn and teach other people. 💡
 
@@ -29,7 +31,7 @@ I have a variety of interests:
 * 🎲 Video games, board games.
 * 🎬 Music, cinema and art.
 
-... and always learning something new 🤓 🤓.
+... and always learning something new. 🤓
 
 
 
